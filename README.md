@@ -1,0 +1,1 @@
+# vmojp-git-training
